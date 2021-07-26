@@ -8,7 +8,7 @@ It's a very simple build, and most of the effort was in iterating (and iterating
 
 - [Polymer Lithium Ion Battery (LiPo) 3.7V 1100mAh](https://core-electronics.com.au/polymer-lithium-ion-battery-1000mah-38458.html)
 - [Adafruit Micro Lipo w/MicroUSB Jack](https://core-electronics.com.au/adafruit-micro-lipo-w-microusb-jack-usb-liion-lipoly-charger-v1.html)
-- 3D printed chassis/case (I'll link the STL soon)
+- 3D printed chassis/case
 - 1mm brass wire
 - 22AWG wire
 
